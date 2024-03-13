@@ -1,0 +1,5 @@
+/* Enter your custom styles here */
+.sapMLnk:focus {
+    background: transparent !important;
+    color: #0064d9 !important;
+}
